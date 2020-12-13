@@ -1,3 +1,6 @@
 - table:
     schema: public
+    name: jyushoroku
+- table:
+    schema: public
     name: shohin
