@@ -9,4 +9,7 @@
     name: shohin
 - table:
     schema: public
+    name: shohincopy
+- table:
+    schema: public
     name: shohinins
