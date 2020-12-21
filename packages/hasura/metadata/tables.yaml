@@ -7,3 +7,6 @@
 - table:
     schema: public
     name: shohin
+- table:
+    schema: public
+    name: shohinins
