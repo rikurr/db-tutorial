@@ -9,6 +9,9 @@
     name: shohin
 - table:
     schema: public
+    name: shohinbunrui
+- table:
+    schema: public
     name: shohincopy
 - table:
     schema: public
