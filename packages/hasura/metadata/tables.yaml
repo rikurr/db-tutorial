@@ -16,3 +16,6 @@
 - table:
     schema: public
     name: shohinins
+- table:
+    schema: public
+    name: shohinsaeki
