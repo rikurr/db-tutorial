@@ -19,3 +19,6 @@
 - table:
     schema: public
     name: shohinsaeki
+- table:
+    schema: public
+    name: shohinsum
