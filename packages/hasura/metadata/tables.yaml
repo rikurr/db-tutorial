@@ -22,3 +22,6 @@
 - table:
     schema: public
     name: shohinsum
+- table:
+    schema: public
+    name: shohinsumjim
