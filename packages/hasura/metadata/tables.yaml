@@ -18,6 +18,9 @@
     name: shohinins
 - table:
     schema: public
+    name: shohinjim
+- table:
+    schema: public
     name: shohinsaeki
 - table:
     schema: public
